@@ -6,14 +6,15 @@ Simple web app to demonstrate the use of GraphQL via the universal language of p
 
 ## View
 - code: https://github.com/ruairiconway/graphql-pokedex
-- live: tbd
+- live: https://ruairiconway.github.io/graphql-pokedex/
+- GraphQL Pokemon API: https://graphql-pokemon2.vercel.app/
 
 | Desktop | Mobile |
 |---------|--------|
 | ![desktop view of app](tbd) | ![mobile view of app](tbd) |
 
 ## Points of Interest
-- tbd
+- Use of Apollo React Hooks to help with queries
 
 ## to-do's
-- tbd
+- styling overhaul
