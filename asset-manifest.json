@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/graphql-pokedex/static/css/main.bab0b925.chunk.css",
+    "main.js": "/graphql-pokedex/static/js/main.27d7bead.chunk.js",
+    "main.js.map": "/graphql-pokedex/static/js/main.27d7bead.chunk.js.map",
+    "runtime-main.js": "/graphql-pokedex/static/js/runtime-main.0e826668.js",
+    "runtime-main.js.map": "/graphql-pokedex/static/js/runtime-main.0e826668.js.map",
+    "static/js/2.dc625760.chunk.js": "/graphql-pokedex/static/js/2.dc625760.chunk.js",
+    "static/js/2.dc625760.chunk.js.map": "/graphql-pokedex/static/js/2.dc625760.chunk.js.map",
+    "static/js/3.d8ec0d80.chunk.js": "/graphql-pokedex/static/js/3.d8ec0d80.chunk.js",
+    "static/js/3.d8ec0d80.chunk.js.map": "/graphql-pokedex/static/js/3.d8ec0d80.chunk.js.map",
+    "index.html": "/graphql-pokedex/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/graphql-pokedex/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.dc625760.chunk.js.LICENSE.txt": "/graphql-pokedex/static/js/2.dc625760.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e826668.js",
+    "static/js/2.dc625760.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.27d7bead.chunk.js"
+  ]
+}
